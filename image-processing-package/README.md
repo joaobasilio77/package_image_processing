@@ -2,8 +2,8 @@
 
 Description. 
 The package package_name is used to:
-	- 
-	-
+	- read and make graphics using images
+	
 
 ## Installation
 
@@ -21,7 +21,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+João Basilio
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
